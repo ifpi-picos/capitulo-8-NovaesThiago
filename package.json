@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "convert": "^5.7.0",
+    "mathjs": "^14.2.1"
+  }
+}
